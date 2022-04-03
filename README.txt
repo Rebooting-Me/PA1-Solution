@@ -1,6 +1,6 @@
                                                 *** WRITE UP ***
 
--------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 1. Three examples of anormal behaviour of our compiler parsing with that of Python's
    inherent compiling are:
@@ -36,7 +36,7 @@
             the value in a similar manner as we did with builtin1 or builtin2 by using an array of parameters.
             That way the Expr being returned would not be a simple parameter but an array of parameters.(I think!)
 
--------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 
 2. I found these two websites other than the material provided in the class as really really
    effective: "https://blog.logrocket.com/the-introductory-guide-to-assemblyscript/" AND "https://dev.to/jtenner/an-assemblyscript-primer-for-typescript-developers-lf1"
@@ -45,6 +45,6 @@
    was doing to the code and cleared the concepts regarding the tree-stack like behaviour
    of the parsing.
 
-------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 3. NONE 
